@@ -27,3 +27,7 @@ It allows simple and reliable digital input for user interactions such as trigge
 | 5V        | 5V      | Power Pass-through |
 | 3V3       | 3.3V    | Logic / Modules |
 
+
+## License
+MIT License (see LICENSE file)
+
