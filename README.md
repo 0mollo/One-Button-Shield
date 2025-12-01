@@ -17,7 +17,7 @@ It allows simple and reliable digital input for user interactions such as trigge
 ## Documentation
 - [Push button datasheet](https://github.com/0mollo/One-Button-Shield/blob/main/Push-Button.pdf)
 - [One-button Shield Schematics](https://github.com/0mollo/One-Button-Shield/blob/main/One-button%20shield.pdf)
-- Arduino example in `examples/arduino/button_example.ino`
+- [Arduino example](https://github.com/0mollo/One-Button-Shield/blob/main/One%20button%20shield%20arduino%20example.txt)
 
 ## Pin Mapping
 
