@@ -29,6 +29,12 @@ It allows simple and reliable digital input for user interactions such as trigge
 | 3V3       | 3.3V    | Logic / Modules |
 
 
+## Optional Libraries for Button-Controlled Actions
+If the button interacts with peripherals, you might use:
+[Adafruit NeoPixel](https://docs.arduino.cc/libraries/adafruit-neopixel/) LED control
+[Adafruit SSD1306/GFX](https://docs.arduino.cc/libraries/adafruit-ssd1306/) If the button navigates an OLED Menu
+[Stepper/Servo Libraries](https://docs.arduino.cc/libraries/stepper/) if the button triggers movement
+[Preference/EEPROM](https://docs.arduino.cc/learn/built-in-libraries/eeprom/) saving states on button press
 ## License
 MIT License (see LICENSE file)
 
