@@ -15,7 +15,7 @@ It allows simple and reliable digital input for user interactions such as trigge
 - Compatible with ESP32-C3 Mini modules
 
 ## Documentation
-- [Push button datasheet](https://github.com/0mollo/One-Button-Shield/blob/main/One-button%20shield.pdf)
+- [Push button datasheet](https://github.com/0mollo/One-Button-Shield/blob/main/Push-Button.pdf)
 - Arduino example in `examples/arduino/button_example.ino`
 
 ## Pin Mapping
