@@ -1,0 +1,19 @@
+/*
+  C3-Mini 1-Button Shield Example
+  Button connected to D3 / GPIO4
+*/
+
+const int buttonPin = D3;  // ESP32-C3 Mini: D3 = GPIO4
+
+void setup() {
+  Serial.begin(115200);
+  pinMode(buttonPin, INPUT_PULLUP);
+  Serial.println("C3-Mini 1-Button Shield Ready");
+}
+
+void loop() {
+  if (digitalRead(buttonPin) == LOW) {
+    Serial.println("Button Pressed");
+    delay(250);  // debounce
+  }
+}
